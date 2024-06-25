@@ -6,12 +6,14 @@ current_directory = os.path.dirname(os.path.realpath(__file__))
 parent_directory = os.path.dirname(current_directory)
 sys.path.append(parent_directory)
 from Yan_Game import Yan
+from Sqlite import YanSQLite
 
 
 class SARSA_Learning:
 
 
     def __init__(self,env:Yan, num_episodes):
+        self.database = YanSQLite()
         self.env=env
         self.record_reward = float('-inf')
         self.sum_reward = 0
@@ -27,7 +29,7 @@ class SARSA_Learning:
         self.alpha = 0.999999999
         self.gamma = 1
 
-        self.Q = {"estado": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16]}
+        self.Q = self.database.select_all()
         self.state_action = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 
 
@@ -56,8 +58,8 @@ class SARSA_Learning:
         predict = self.Q[state][action]
         target = reward + self.gamma * self.Q[state2] [action2]
         self.Q[state] [action] = int(self.Q[state] [action] + self.alpha * (target - predict))
-        # if np.max(self.Q[state]) != 0:
-        #     self.save_q_state(self.Q[state])
+        if np.max(self.Q[state]) != 0:
+            self.database.save_state(state=state, actions=self.Q[state])
 
     def edit_state(self, state):
         state = str(state)
@@ -112,6 +114,7 @@ class SARSA_Learning:
                     self.best_game = list()
                     break
         
+        self.database.close_connection()
 env = Yan()
 sarsa = SARSA_Learning(env, 10000)
 sarsa.start_training()
