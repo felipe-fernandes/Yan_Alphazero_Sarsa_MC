@@ -1,0 +1,2355 @@
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               3
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 1, 5, 5, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 5]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               6
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 1, 5, 5, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 5]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 5, 5]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 4, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               5
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 4, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 5, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [4, 5, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 5, 6]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               6
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 4, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 5, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [4, 5, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 5, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 3, 5, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 4, 5, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 5, 5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [4, 4, 5, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 3, 5]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               54
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 4, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 5, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [4, 5, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 5, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 3, 5, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 4, 5, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 5, 5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [4, 4, 5, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 3, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [5, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 3, 4]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 2, 4, 6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               3
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 2, 4, 6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 4] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 2, 3, 4]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               6
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 2, 4, 6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 4] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 2, 3, 4]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 6, 6, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 3, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 5, 5]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               50
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 2, 4, 6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 4] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 2, 3, 4]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 6, 6, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 3, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 4, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 5, 5, 5, 5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [4, 5, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 5, 6, 6]
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:record_reward:               54
+DEBUG:__main__:best_episode:                6
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 1, 2, 4]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 1, 1, 2] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 3, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 4, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 4, 5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 5, 5, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 1, 2, 4, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 4, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 5, 5]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 3, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 6, 6, 6, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 4, 5, 5]
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:Episodio:                9
+DEBUG:__main__:record_reward:               60
+DEBUG:__main__:best_episode:                9
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 4, 5, 6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 5, 6, 6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 6, 6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [3, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 3, 3]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 5]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 3, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 5, 5, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 3, 4, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 3, 4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 4, 5, 5, 6]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 3, 3, 5, 6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 4, 5, 6]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               5
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 3, 3, 5, 6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 4, 5, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 3, 4, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 4, 5, 6]
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               8
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 5, 5, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 3, 4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 3]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 6, 6]
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               18
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 5, 5, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 3, 4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 3]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 5, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 5, 5, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 5, 5]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 4, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 4, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 3, 5, 5, 6]
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               60
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [3, 5, 5, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 3, 4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 3]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 5, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 5, 5, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 5, 5]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 4, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 3, 4, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 3, 5, 5, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 5, 5, 5]
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:Episodio:                57
+DEBUG:__main__:record_reward:               70
+DEBUG:__main__:best_episode:                57
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 2, 3, 5, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 4] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 1, 3, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 4, 4, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 4] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 1, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 5, 5, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 3, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 3, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 4, 5, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 3, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 4, 5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 4, 4, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [4, 4, 4, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 4, 6]
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:Episodio:                121
+DEBUG:__main__:record_reward:               75
+DEBUG:__main__:best_episode:                121
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 3, 4, 4, 6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [3, 3, 5, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 4, 5, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [5, 5, 5, 5, 5]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [5, 5, 5, 5, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 4, 5, 5]
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:Episodio:                159
+DEBUG:__main__:record_reward:               80
+DEBUG:__main__:best_episode:                159
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 1, 2, 3, 5]
+DEBUG:__main__:action values:                       [20, 0, 0, 0, 12, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:ação não explorada                1
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 1, 3, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [4, 4, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 2, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [3, 3, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 4, 4]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 5, 5, 6, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [2, 2, 3, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 5, 6, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 5, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 4, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 3, 5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 3, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 6, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 3, 4, 6]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 2, 4, 5, 6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               47
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 2, 4, 5, 6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 3] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [2, 2, 5, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 6, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [5, 5, 5, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 4, 5, 5, 6]
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:Episodio:                4
+DEBUG:__main__:record_reward:               50
+DEBUG:__main__:best_episode:                4
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 1, 2, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 3, 5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [2, 2, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [4, 4, 5, 5, 6]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 5, 5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 4, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 4, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 4, 4]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 2, 3, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 4, 5]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 2, 2, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 3, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 4] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 4, 5, 6, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 3, 3, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 5, 5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 4, 5, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 3, 5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 3, 4]
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:Episodio:                12
+DEBUG:__main__:record_reward:               60
+DEBUG:__main__:best_episode:                12
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [2, 3, 4, 4, 5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 6, 6]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 2, 3, 5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 5, 6, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [2, 3, 6, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 4, 4, 6, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 4, 4]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 3, 3, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 2, 2, 4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 1, 4, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 4, 5]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 4, 5, 6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 3, 4, 6]
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:Episodio:                54
+DEBUG:__main__:record_reward:               80
+DEBUG:__main__:best_episode:                54
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:você rolou:                          [1, 2, 3, 5, 5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 5, 6, 6, 6]
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 5, 6, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 4, 5, 5, 6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 4, 4, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 1, 1, 2, 6]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 3, 6, 6, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 4, 4, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 3] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 5, 5, 5, 6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 2, 4, 6, 6]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 3, 3, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 5, 6, 6]
+DEBUG:__main__:action values:                       [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:action count:                        [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [4, 5, 6, 6, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [1, 3, 6, 6, 6]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 4, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 4, 4, 5, 5]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você rolou:                          [5]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:você rolou:                          [4]
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [4, 4, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 2, 3, 3, 5]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [2]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [1]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 3, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [2, 3, 5, 5, 6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:você rolou:                          [3]
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:você rolou:                          [6]
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:você rolou:                          [3, 4, 4, 4, 4]
