@@ -57,8 +57,8 @@ class Monte_carlo:
             is_random = False
             arg_max = np.argmax(self.full_value_table[state].actions)
             arg_min = np.argmin(self.full_value_table[state].actions_count)
-            env.game_play.append("action values:                       " + str(self.full_value_table[state].actions))
-            env.game_play.append("action count:                        " + str(self.full_value_table[state].actions_count))
+            # env.game_play.append("action values:                       " + str(self.full_value_table[state].actions))
+            # env.game_play.append("action count:                        " + str(self.full_value_table[state].actions_count))
             if np.max(self.full_value_table[state].actions) != 0 and len(set(self.full_value_table[state].actions)) > 1:
                 if 0 in self.full_value_table[state].actions_count and arg_min < number_of_possible_actions:
                     env.game_play.append("ação não explorada                " + str(arg_min))
@@ -93,19 +93,20 @@ class Monte_carlo:
 
         
         # returns = {state: [] for state in range(len(self.VT))}
-
         for _ in trange(num_episodes):
             # for i in range(1):
                 # print("episodio               ", _)
             
             state = env.reset()
+            sum_reward = 0
             episode = []
             # Generate an episode
             while True:
                 action = policy(state = state)
                 self.next_state, reward, terminal = env.get_next_state(state, action)
-                if reward > self.record_reward:
-                    self.record_reward = reward
+                sum_reward += reward
+                if sum_reward > self.record_reward:
+                    self.record_reward = sum_reward
                     self.best_episode = _                
                     for i in range(10):
                         self.logger.debug("Episodio:                %s", _)
@@ -164,3 +165,30 @@ def json_encoder(obj):
         return return_obj
 with open(V.filename, "w") as outfile:
     json.dump(json_dict, outfile, default=json_encoder)
+
+
+
+def autoplay(env:Yan, mc:Monte_carlo):
+    total_reward = 0
+    yangame = env
+    mc.is_training = False
+    state = yangame.get_initial_state()
+    while not yangame.check_ended(state):
+        if str(state) in mc.full_value_table:
+            action = mc.random_policy(state)
+        else:
+            action = np.random.choice(yangame.get_valid_actions(state))
+        state2, reward, done = yangame.get_next_state(state=state, action=action)
+        total_reward += reward
+        state = state2
+    
+    return total_reward
+
+avg_rewards = 0
+sum_rewards = 0
+
+for i in trange(1000):
+    sum_rewards += autoplay(env=env, mc=V)
+    avg_rewards = sum_rewards/(i+1)
+
+print(avg_rewards)

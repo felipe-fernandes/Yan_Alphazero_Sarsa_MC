@@ -31,7 +31,7 @@ class Yan:
         for i in range(n):
             rolls.append(randint(1, 6))
         rolls.sort()
-        self.game_play.append("você rolou:                          " + str(rolls))
+        # self.game_play.append("você rolou:                          " + str(rolls))
         return rolls
 
 
@@ -73,7 +73,7 @@ class Yan:
 
     def do_the_reroll(self, n_dices):
         dices_to_reroll = '{0:05b}'.format(int(n_dices))
-        self.game_play.append("dados a serem rolados novamente:     " + dices_to_reroll)
+        # self.game_play.append("dados a serem rolados novamente:     " + dices_to_reroll)
         for index in range(len(str(dices_to_reroll))):
             if dices_to_reroll[index] == "1":
                 self.dices[index] = self.roll_dice(1)[0]
