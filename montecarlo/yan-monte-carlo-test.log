@@ -1,0 +1,3342 @@
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               50
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               53
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               61
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               70
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:record_reward:               71
+DEBUG:__main__:best_episode:                11
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 4, 4, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [2, 3, 4, 4, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 4, 4, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:Episodio:                11
+DEBUG:__main__:record_reward:               121
+DEBUG:__main__:best_episode:                11
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 4, 4, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [2, 3, 4, 4, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 4, 4, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:Episodio:                36
+DEBUG:__main__:record_reward:               173
+DEBUG:__main__:best_episode:                36
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [5, 5, 5, 5, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 3, 6, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [3, 4, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 2, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 2] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               8
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               11
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               13
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 6, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               25
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [3, 6, 6, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 3, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 6, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 4, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 1, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               37
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [3, 4, 5, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 1, 1, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 4] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 4, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 2, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 2, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 1, 4, 5, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 2, 4, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 4, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               64
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [4, 5, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 4, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               68
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [4, 5, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 4, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 2, 2, 3, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               114
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [4, 5, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 4, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 2, 2, 3, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [4, 4, 6, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:Episodio:                6
+DEBUG:__main__:record_reward:               116
+DEBUG:__main__:best_episode:                6
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 2, 2, 3] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [4, 4, 4, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 3, 5, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:você marcou                          [1, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:Episodio:                19
+DEBUG:__main__:record_reward:               128
+DEBUG:__main__:best_episode:                19
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 3] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:você marcou                          [1, 1, 6, 6, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 3, 4, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 1, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 2, 5, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 4, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 4, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:record_reward:               149
+DEBUG:__main__:best_episode:                26
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 4, 4, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 3, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 3] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 1, 1] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 1, 3, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 4, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:Episodio:                26
+DEBUG:__main__:record_reward:               219
+DEBUG:__main__:best_episode:                26
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 4, 4, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 3, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 1, 3, 3] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 1, 1] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 1, 3, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 4, 6, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 5, 5, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [4, 4, 4, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               0
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               6
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:Episodio:                0
+DEBUG:__main__:record_reward:               12
+DEBUG:__main__:best_episode:                0
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 2, 2, 3, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 2, 2, 4, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               38
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               44
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 3, 3, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:Episodio:                1
+DEBUG:__main__:record_reward:               59
+DEBUG:__main__:best_episode:                1
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 3, 4, 4] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 3, 3, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 3, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               67
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 4, 5, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 4, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               69
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 4, 5, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 4, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 5, 5, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:Episodio:                3
+DEBUG:__main__:record_reward:               79
+DEBUG:__main__:best_episode:                3
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 2] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 3, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 4, 5, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 3, 4, 4, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 5, 5, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 3, 5, 5, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 4, 5, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:Episodio:                17
+DEBUG:__main__:record_reward:               86
+DEBUG:__main__:best_episode:                17
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [4, 5, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 3, 4, 4] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 3] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 3, 4, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 5, 5, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 3, 5, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [3, 3, 3, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 4] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:Episodio:                35
+DEBUG:__main__:record_reward:               96
+DEBUG:__main__:best_episode:                35
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 2, 2, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 4, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 2, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 2, 2, 3, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 2, 3] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [4, 5, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 3, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:Episodio:                90
+DEBUG:__main__:record_reward:               114
+DEBUG:__main__:best_episode:                90
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 3, 5, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 2] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 4, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 2, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 3, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:record_reward:               126
+DEBUG:__main__:best_episode:                93
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 1, 2, 4] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 5, 5, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 3, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 5, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [4, 4, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:Episodio:                93
+DEBUG:__main__:record_reward:               134
+DEBUG:__main__:best_episode:                93
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 1, 1, 2, 4] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 5, 5, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 5, 5, 6, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 3, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 3, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [3, 3, 5, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [4, 4, 4, 4, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:Episodio:                124
+DEBUG:__main__:record_reward:               137
+DEBUG:__main__:best_episode:                124
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 5, 5, 5, 6] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 3, 5, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [4, 4, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 2, 2, 4, 4] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 1, 1, 2, 4] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [3, 3, 4, 4, 6] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 3, 3, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 5, 5] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:você marcou                          [1, 2, 2, 5, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:Episodio:                177
+DEBUG:__main__:record_reward:               138
+DEBUG:__main__:best_episode:                177
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 1, 2, 2, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 4, 5, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 1, 1, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [2, 2, 3, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 2, 5, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 4, 4, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 5, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:record_reward:               141
+DEBUG:__main__:best_episode:                240
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 3, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 5, 5, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 3, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:Episodio:                240
+DEBUG:__main__:record_reward:               151
+DEBUG:__main__:best_episode:                240
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [2, 2, 3, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 3, 4, 5, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 6] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [2, 3, 5, 5, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 5, 5, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 3, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 1, 2, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:record_reward:               162
+DEBUG:__main__:best_episode:                398
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 5, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 3, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:Episodio:                398
+DEBUG:__main__:record_reward:               163
+DEBUG:__main__:best_episode:                398
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 4, 5, 5, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 4] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 2, 5, 5, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 5] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [1, 1, 1, 5, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 5, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 3, 3, 4, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 3, 5, 6, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 4, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 2, 3, 3, 3] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:record_reward:               197
+DEBUG:__main__:best_episode:                633
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [5, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:record_reward:               203
+DEBUG:__main__:best_episode:                633
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [5, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 1, 5, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:Episodio:                633
+DEBUG:__main__:record_reward:               206
+DEBUG:__main__:best_episode:                633
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 4, 4, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [3, 4, 4, 4, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [1, 1, 4, 4, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 6] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 5, 5] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [5, 6, 6, 6, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 3, 4, 4, 5] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [1, 1, 5, 6, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 3, 3, 4, 4] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 1, 1, 2, 4] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:Episodio:                2515
+DEBUG:__main__:record_reward:               226
+DEBUG:__main__:best_episode:                2515
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação mais valiosa                 5
+DEBUG:__main__:ação não explorada                6
+DEBUG:__main__:ação não explorada                1
+DEBUG:__main__:você marcou                          [2, 6, 6, 6, 6] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 2, 3, 4] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [1, 4, 4, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [2, 4, 5, 6, 6] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [1, 2, 2, 2, 4] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 4, 4, 4, 6] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [1, 1, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:você marcou                          [4, 4, 5, 5, 5] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:você marcou                          [1, 2, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 2, 2, 3, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [6, 6, 6, 6, 6] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:ação aleatória8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação mais valiosa                 4
+DEBUG:__main__:ação mais valiosa                 0
+DEBUG:__main__:você marcou                          [1, 5, 5, 5, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:você marcou                          [1, 3, 5, 5, 5] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação mais valiosa                 4
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:você marcou                          [2, 3, 5, 6, 6] em 1
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:record_reward:               233
+DEBUG:__main__:best_episode:                3769
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação mais valiosa                 8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                1
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você marcou                          [1, 1, 1, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:record_reward:               245
+DEBUG:__main__:best_episode:                3769
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação mais valiosa                 8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                1
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você marcou                          [1, 1, 1, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 4, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:Episodio:                3769
+DEBUG:__main__:record_reward:               247
+DEBUG:__main__:best_episode:                3769
+DEBUG:__main__:Jogo iniciado
+DEBUG:__main__:ação mais valiosa                 8
+DEBUG:__main__:você marcou                          [2, 3, 4, 5, 6] em s+
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                1
+DEBUG:__main__:ação aleatória11
+DEBUG:__main__:você marcou                          [2, 2, 2, 2, 5] em x-
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória2
+DEBUG:__main__:você marcou                          [2, 3, 3, 5, 5] em 3
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória4
+DEBUG:__main__:você marcou                          [3, 5, 5, 5, 5] em 5
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória5
+DEBUG:__main__:você marcou                          [2, 4, 6, 6, 6] em 6
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória10
+DEBUG:__main__:você marcou                          [1, 1, 4, 6, 6] em x+
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:ação aleatória6
+DEBUG:__main__:você marcou                          [3, 3, 3, 3, 3] em q
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória7
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:ação aleatória1
+DEBUG:__main__:você marcou                          [2, 2, 2, 5, 5] em 2
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória9
+DEBUG:__main__:você marcou                          [1, 2, 3, 4, 5] em s-
+DEBUG:__main__:
+
+DEBUG:__main__:você marcou                          [1, 1, 1, 4, 4] em f
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória3
+DEBUG:__main__:você marcou                          [2, 4, 4, 4, 6] em 4
+DEBUG:__main__:
+
+DEBUG:__main__:ação não explorada                0
+DEBUG:__main__:ação aleatória12
+DEBUG:__main__:você marcou                          [1, 1, 2, 2, 3] em y
+DEBUG:__main__:
+
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação aleatória0
+DEBUG:__main__:ação mais valiosa                 0
+DEBUG:__main__:você marcou                          [1, 1, 2, 4, 6] em 1
+DEBUG:__main__:
+

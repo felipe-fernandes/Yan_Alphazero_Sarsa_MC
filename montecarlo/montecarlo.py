@@ -2,7 +2,7 @@ import logging
 import numpy as np
 import json
 import time
-from node import VALUE_Table
+from Node import VALUE_Table
 # from loadjson import LOAD_Json
 from datetime import datetime
 from tqdm import tqdm
@@ -148,7 +148,7 @@ class Monte_carlo:
 
 
 # Define the number of episodes for MC evaluation
-num_episodes = 10000
+num_episodes = 100000
 
 env = Yan()
 V = Monte_carlo(env)
